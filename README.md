@@ -16,14 +16,14 @@ you're good to go.
 
 To install any Vim plug-in you have a few options:
 
-#### 1. Put Files Into Root of the `.vim` Directory (Not Recommended)
+### 1. Put Files Into Root of the `.vim` Directory (Not Recommended)
 
 Without a plug-in manger (like the ones below) you have to manually put each
 file/folder (plugin/, doc/, autoload/, etc.) into the root of your .vim folder.
 I highly recommend that you use one of the plug-in mangers below for less
 manual work and easier organization.
 
-#### 2. Pathogen, by tpope
+### 2. Pathogen, by tpope
 
 To use [Pathogen](https://github.com/tpope/vim-pathogen) you first have to
 install it. After the installation process, type the following command
@@ -32,7 +32,7 @@ into a terminal, assuming you have `git` installed:
 	cd ~/.vim/bundle
 	git clone https://github.com/edvb54/catium.vim
 
-#### 3. Vundle, by gmarik
+### 3. Vundle, by gmarik
 
 To use [Vundle](https://github.com/gmarik/Vundle.vim) you first have to
 install it by following the instructions on the repository. After the
@@ -45,7 +45,7 @@ And then type this while inside Vim:
 	:source %
 	:PluginInstall
 
-#### 4. NeoBundle, by Shougo
+### 4. NeoBundle, by Shougo
 
 
 To use [NeoBundle](https://github.com/Shougo/neobundle.vim) you first have to
@@ -88,7 +88,7 @@ below:
 
 	let g:catium#<component> = <componentNum>
 
-#### Trail
+### Trail
 
 | `<componetNum>` | Preview |
 | -------------   | ------- |
@@ -97,7 +97,7 @@ below:
 | 2               | `\`     |
 | 3               | `/\`    |
 
-#### Body
+### Body
 
 | `<componetNum>` | Preview |
 | -------------   | ------- |
@@ -107,7 +107,7 @@ below:
 | 3               | `[∴]`   |
 | 4               | `[,_,]` |
 
-#### Face
+### Face
 
 | `<componetNum>` | Preview |
 | -------------   | ------- |
@@ -115,7 +115,7 @@ below:
 | 1               | `ه`     |
 | 2               | `:3`    |
 
-#### Space
+### Space
 
 | `<componetNum>` | Preview |
 | -------------   | ------- |
@@ -128,19 +128,13 @@ below:
 Note: Some of the text above is Unicode, so if you are seeing weird letters
 then you are not loading Unicode correctly (should be fine in Vim).
 
-## Contributing
+## Author
 
-I am open to pull requests just as long as you know [how to to write a commit
-message](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
-Please report any bugs/issues you find. I am also very open to new ideas and
-critique, see Contact section below on how to contact me.
+Written by ED van Bruggen.
 
-## Contact
+## See Also
 
-If you have any questions please contact me at edvb54@gmail.com or leave
-a comment wherever.
-
--ED
+View source code at: <https://gitlab.com/edvb/catium.vim>
 
 ## Licence
 
