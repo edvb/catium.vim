@@ -5,7 +5,11 @@ and yet nothing similar for Vim?  Well fear no longer! Introduction catium.vim!
 
 ## Screenshots
 
-TODO
+![catium-1](http://i.imgur.com/1TDWJFV.png)
+
+![catium-2](http://i.imgur.com/u2UzIpB.png)
+
+![catium-3](http://i.imgur.com/wvl6geF.png)
 
 ## Installation
 
@@ -46,7 +50,6 @@ And then type this while inside Vim:
 	:PluginInstall
 
 ### 4. NeoBundle, by Shougo
-
 
 To use [NeoBundle](https://github.com/Shougo/neobundle.vim) you first have to
 install it by following the instructions on the repository. After the
