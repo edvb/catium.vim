@@ -137,5 +137,5 @@ Written by ED van Bruggen.
 
 ## Licence
 
-GPL v3 License
+Vim License. See `:help license`
 
