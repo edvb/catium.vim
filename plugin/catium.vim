@@ -1,6 +1,7 @@
 " catium.vim - Add an Element of Nyan Cat to Vim
-" Author:  ED
+" Author:  Ed van Bruggen
 " Version: 1.0
+" License: Vim License. See :help license
 
 scriptencoding utf-8
 

@@ -34,7 +34,7 @@ install it. After the installation process, type the following command
 into a terminal, assuming you have `git` installed:
 
 	cd ~/.vim/bundle
-	git clone https://github.com/edvb54/catium.vim
+	git clone https://gitlab.com/edvb/catium.vim
 
 ### 3. Vundle, by gmarik
 
@@ -42,7 +42,7 @@ To use [Vundle](https://github.com/gmarik/Vundle.vim) you first have to
 install it by following the instructions on the repository. After the
 installation process, insert the following into your `.vimrc` file:
 
-	Plugin 'edvb54/catium.vim'
+	Plugin 'edvb/catium.vim'
 
 And then type this while inside Vim:
 
@@ -55,7 +55,7 @@ To use [NeoBundle](https://github.com/Shougo/neobundle.vim) you first have to
 install it by following the instructions on the repository. After the
 installation process, insert the following into your `.vimrc` file:
 
-	NeoBundle 'edvb54/catium.vim'
+	NeoBundle 'edvb/catium.vim'
 
 And then type this while inside Vim:
 
@@ -134,10 +134,6 @@ then you are not loading Unicode correctly (should be fine in Vim).
 ## Author
 
 Written by ED van Bruggen.
-
-## See Also
-
-View source code at: <https://gitlab.com/edvb/catium.vim>
 
 ## Licence
 
