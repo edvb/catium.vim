@@ -1,7 +1,7 @@
 # catium.vim
 
 How come there is [nyan-mode](https://github.com/TeMPOraL/nyan-mode) for Emacs,
-and yet nothing similar for Vim?  Well fear no longer! Introduction catium.vim!
+and yet nothing similar for Vim?  Well fear no longer! Introducing catium.vim!
 
 ## Screenshots
 
@@ -16,7 +16,7 @@ and yet nothing similar for Vim?  Well fear no longer! Introduction catium.vim!
 Before you install this plug-in you have to make sure that your Vim install has
 the necessary components installed. To check run `vim --version`, then look for
 `multi_byte` and `statusline`. If there is a `+` in front of both of them, then
-you're good to go. 
+you're good to go.
 
 To install any Vim plug-in you have a few options:
 
@@ -133,7 +133,7 @@ then you are not loading Unicode correctly (should be fine in Vim).
 
 ## Author
 
-Written by ED van Bruggen.
+Ed van Bruggen <edvb54@gmail.com>
 
 ## Licence
 
